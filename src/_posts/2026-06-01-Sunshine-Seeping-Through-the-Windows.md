@@ -1,7 +1,13 @@
 **The perfect summer day is here. After months and months of ruthless studying, waking up early, and completing countless worksheets, sunshine has arrived. When the clock strikes three and students bustle out the doors, it feels as though time has frozen for a moment and all you can hear is laughter and cheers. Most students spend all year dreaming of summer break. I remember my last day of third grade. The annual talent show had just finished and I was still reassuring my friend that our bond would last forever. As the bells rang again the following year, it seemed like it would. That friend and I haven’t been in contact since. The rusty gym, the criss-cross—it’s all still there.**
+
   
+
 Summer break means different things for everyone. For some, it’s a month-long vacation overseas to visit their distant relatives. For others, it’s sleeping all day, every day, playing endless hours of video games, or wishing the bells would ring again. In my opinion, the perfect summer day is waking up naturally early. It’s making eggs and bacon for breakfast and enjoying the outdoors while listening to the birds sing songs. It’s going on a walk to the park.
+
   
+
 Every summer, I find myself spending the entire day with my dad. Whether it be co-existing silently or going fishing, those mundane moments go unappreciated in the fall. Someday, those moments will come back to me—in dreams, in specific locations, in smells. It’s a cycle. From your first day of kindergarten to the long nights of grade twelve, some things are kept and repeated. A birthday each year, every one differing more and more from the last. Seeing the gray hairs that weren’t so apparent before. Wondering if summer was ever going to end, wishing it would last forever. Starting the school year off with different friends than the last. Saying goodbye to a caregiver before it all happens again.
+
   
+
 Suddenly, it’s the night before school starts. Sleep will take a while to arrive tonight. The memories of summer hit like a truck. All those days spent dying of laughter, of being reckless and dumb, have slipped away so easily. In the distance, a gust of wind is felt, and in turn, the cycle begins again. Smiling wide for a picture, completing assignments left and right, feeling the pressure of deadlines. Until, of course, there are those days that make everything worth it. Compliments from friends, an especially funny day in class, and receiving good feedback from that one teacher. School, summer break, and everything in between is only a short period of a wonderful life. The stars shine a little brighter.

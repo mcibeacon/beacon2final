@@ -1,15 +1,29 @@
 **I’ve never been good at goodbyes, and consequently, June is never easy for me. It's now the third time I've had to say farewell to a graduating class, and while at the time of writing I have not actually made any goodbyes yet, I can already taste the tears that I will be emitting during the bittersweet hours of this year’s commencement ceremony—that is, my final one as a volunteer, since my next will also be my own.**
+
   
+
 Being part of MCI's Auditorium Facilities Crew has given me exclusive behind-the-scenes privileges to the annual commencement, a two-hour commemoration in June that sends off ~250 graduates to their bubbly post-secondary futures. It is a somewhat monotonous, repetitive, and boring ceremony, but most of all, it is really bittersweet. After my first one, it felt surreal that our MCI role models had officially left the nest and gone to reap what the big world has to offer. Last year, I mourned the loss of some MCI giants, some of whom I had formed a real rapport with, making the day doubly devastating. I imagine that the seniors this year, the upperclassmen that I’ve spent most of my time with and the graduating class that has made an enormous impact on MCI, will be especially difficult to part ways with.
+
   
+
 Some words from a TDSB trustee continue to ring with me: when one year of students graduate high school, it not only marks the exit of 25% of the student body, but also the entrance of a new 25%. It is a profound perspective. Quantifying the seismicity of this turnover compels us—as one quarter of the student body—to really think: since entering this school, once our four years are inevitably up and we get to walk that stage, will our exit be felt?
+
   
+
 You can accomplish quite a lot in four years of high school, but as many of us have already discovered, four years is not a lot of time. High school moves fast, and it won't slow down any time soon, and by the time you're in grade 11 edging the border of grade 12, you'll definitely feel a push. It also prompts you to reflect on what you've done in three out of your four years, or what you could've done differently. After reflecting on my own high school career thus far, here are three things I’ve learned, in short summary:
+
   
+
 1. **Try things out and take risks.** These are not simply buzzwords that Bears spew. Experimenting, failing, and succeeding will grow you in magical ways. Just 21 months ago, I applied to be a writer for The Beacon, a decision made far outside the realm of my comfort zone. Funnily, I remained in my comfort zone, writing mostly about food, although this piece is certainly a departure from food, so one could say that you’re reading one of my risks right now! Isn’t that something?
+
   
+
 2. **Get ready to fail and fail hard.** We are literally living in our best ages to fail. In everything you do, there will always be something to learn, big or small. But you won't learn if you aren't seeking to be taught. Embrace it.
+
   
+
 3. **We are all people.** Believe me when I tell you that people are kinder than you’ll ever expect. I say this as someone formerly defensive and hesitant to interact with others out of imaginary pretenses built upon them. When you welcome others into your life, you’ll find that people as a whole are simply better. Find people you love, find people you don't love, and stick around those you love.
+
   
+
 Finally, remember that time stops for nobody. After all, before you know it, you'll also be walking that stage, just as you've watched others do so countless times before.
