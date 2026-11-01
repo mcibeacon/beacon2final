@@ -167,6 +167,62 @@ import Valentines2026 from '../assets/images/2026-02-14-RomCom.png'
 
 const articles = [
     {
+        author: 'Archana Arulthas',
+        date: '2026-06-01',
+        title: 'The Illusion of Safety: The Psychology Behind Summer Horror',
+        preview: `Summer horror films challenge our expectations of safety by transforming bright, familiar environments into places of fear.`,
+        image: Default,
+        name: '2026-06-01-The-Illusion-of-Safety-The-Psychology-Behind-Summer-Horror'
+    },
+    {
+        author: 'Ishani Patel',
+        date: '2026-06-01',
+        title: 'Asian and Pacific Islander Heritage Month: A Celebration of Cultures',
+        preview: `Asian Heritage Month offers an opportunity to learn about cultures and take part in Toronto's many cultural events.`,
+        image: Default,
+        name: '2026-06-01-Asian-and-Pacific-Islander-Heritage-Month-A-Celebration-of-Cultures'
+    },
+    {
+        author: 'Kim Nguyen',
+        date: '2026-06-01',
+        title: 'Sunshine Seeping Through the Windows',
+        preview: `Summer break, memories, and the small moments that make school and everything in between part of a wonderful life.`,
+        image: Default,
+        name: '2026-06-01-Sunshine-Seeping-Through-the-Windows'
+    },
+    {
+        author: 'Uma Datar',
+        date: '2026-06-01',
+        title: 'Fun Activities For Summer Vacation',
+        preview: `Make the most of summer vacation with classic activities including beaches, amusement parks, and picnics.`,
+        image: Default,
+        name: '2026-06-01-Fun-Activities-For-Summer-Vacation'
+    },
+    {
+        author: 'Ethan Lin',
+        date: '2026-06-01',
+        title: '“Farewell” is my Least Favourite “F” Word: 3 Things I’ve Learned in 3 Years of High School',
+        preview: `Three lessons about taking risks, embracing failure, and making the most of high school before saying goodbye.`,
+        image: Default,
+        name: '2026-06-01-Farewell-is-my-Least-Favourite-F-Word-3-Things-Ive-Learned-in-3-Years-of-High-School'
+    },
+    {
+        author: 'Julia Beaman',
+        date: '2026-06-01',
+        title: 'The Car Always Wins: Essential Road Safety',
+        preview: `Simple habits for staying safe while walking, biking, and driving through summer construction and traffic.`,
+        image: Default,
+        name: '2026-06-01-The-Car-Always-Wins-Essential-Road-Safety'
+    },
+    {
+        author: 'Penny McClement',
+        date: '2026-06-01',
+        title: 'Down and Across Three Years of Puzzles: A Reflection',
+        preview: `A reflection on three years of creating accessible crosswords tailored to Beacon readers.`,
+        image: Default,
+        name: '2026-06-01-Down-and-Across-Three-Years-of-Puzzles-A-Reflection'
+    },
+    {
         author: 'Beacon Editors',
         date: '2026-05-02',
         title: 'Beacon Alumni Issue - PDF',
