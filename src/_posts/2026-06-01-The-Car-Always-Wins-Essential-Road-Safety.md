@@ -1,4 +1,4 @@
-**I’m sure we’ve all noticed the construction at Martin Grove and Eglinton that’s been going on for a few months, and will likely continue until the class of 2045 graduates. As we get into summer, I’m sure many of us will also be spending a lot more time outside, walking or biking to work or with our friends. Unfortunately, July is the deadliest month for pedestrians in Toronto, with 15% of all traffic-related deaths occurring in the first month of summer (Preszler Law). This increase is probably because there’s more traffic, construction, and pedestrian activity in the summertime. Luckily, there are a few key changes we can all make in our behaviour that will keep us safer on the roads this summer.**
+**I’m sure we’ve all noticed the construction at Martin Grove and Eglinton that’s been going on for a few months, and will likely continue until the class of 2045 graduates.** As we get into summer, I’m sure many of us will also be spending a lot more time outside, walking or biking to work or with our friends. Unfortunately, July is the deadliest month for pedestrians in Toronto, with 15% of all traffic-related deaths occurring in the first month of summer (Preszler Law). This increase is probably because there’s more traffic, construction, and pedestrian activity in the summertime. Luckily, there are a few key changes we can all make in our behaviour that will keep us safer on the roads this summer.
 
   
 
@@ -10,7 +10,7 @@ Also, you might find yourself walking at night, so it’s important to take safe
 
   
 
-Most importantly, **DON’T JAYWALK!!** Dashing across a busy road is likely to end in disaster. Please, just use the crosswalks. It’s not worth risking a trip to the hospital and a life-threatening injury just to catch a bus, meet a friend, or save a few minutes.
+Most importantly, DON’T JAYWALK!! Dashing across a busy road is likely to end in disaster. Please, just use the crosswalks. It’s not worth risking a trip to the hospital and a life-threatening injury just to catch a bus, meet a friend, or save a few minutes.
 
   
 

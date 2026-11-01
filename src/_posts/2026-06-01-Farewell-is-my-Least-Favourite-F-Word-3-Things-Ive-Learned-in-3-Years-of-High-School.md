@@ -1,4 +1,4 @@
-**I’ve never been good at goodbyes, and consequently, June is never easy for me. It's now the third time I've had to say farewell to a graduating class, and while at the time of writing I have not actually made any goodbyes yet, I can already taste the tears that I will be emitting during the bittersweet hours of this year’s commencement ceremony—that is, my final one as a volunteer, since my next will also be my own.**
+**I’ve never been good at goodbyes, and consequently, June is never easy for me.** It's now the third time I've had to say farewell to a graduating class, and while at the time of writing I have not actually made any goodbyes yet, I can already taste the tears that I will be emitting during the bittersweet hours of this year’s commencement ceremony—that is, my final one as a volunteer, since my next will also be my own.
 
   
 
