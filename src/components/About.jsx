@@ -40,8 +40,8 @@ const About = () => {
         <h2 className='mb-5'>Contact Us</h2>
         <h5 className='text-slate-500'>
           Have a story to share or a suggestion? Reach out to us at{' '}
-          <a href="mailto:contactmcibeacon@gmail.com">
-            contactmcibeacon@gmail.com
+          <a href="mailto:mcibeacon.management@gmail.com">
+            mcibeacon.management@gmail.com
           </a>
           . Your voice matters, and we're here to listen!
         </h5>

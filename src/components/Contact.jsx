@@ -40,7 +40,7 @@ const Contact = () => {
       from_name: form.name,
       to_name: 'Beacon',
       from_email: form.email,
-      to_email: 'contactmcibeacon@gmail.com',
+      to_email: 'mcibeacon.management@gmail.com',
       message: form.message,
 
     },
