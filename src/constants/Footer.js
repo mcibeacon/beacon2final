@@ -12,7 +12,7 @@ export const footerLinks = [
       title: "Socials",
       links: [
         { title: "Archive site", url: "archive.mcibeacon.com" },
-        { title: "Instagram", url: "instagram.com/mcibeacon" },
+        { title: "Instagram", url: "https://www.instagram.com/mcibeacon/" },
       
       ],
     },
