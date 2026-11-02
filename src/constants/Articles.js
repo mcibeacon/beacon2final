@@ -223,6 +223,14 @@ const articles = [
         name: '2026-10-31-No-Tricks-All-Treats-How-to-Bake-Cinnamon-Rolls-at-Home'
     },
     {
+        author: 'Beacon Editors',
+        date: '2026-06-01',
+        title: 'Beacon June 2026 Issue - PDF',
+        preview: `Read the June 2026 Beacon issue directly on the website.`,
+        image: Default,
+        name: '2026-06-01-June-Issue-PDF'
+    },
+    {
         author: 'Archana Arulthas',
         date: '2026-06-01',
         title: 'The Illusion of Safety: The Psychology Behind Summer Horror',
