@@ -224,6 +224,14 @@ const articles = [
     },
     {
         author: 'Beacon Editors',
+        date: '2026-10-31',
+        title: 'Beacon Halloween 2026 Issue - PDF',
+        preview: `Read the Halloween 2026 Beacon issue directly on the website.`,
+        image: Default,
+        name: '2026-10-31-Halloween-Issue-PDF'
+    },
+    {
+        author: 'Beacon Editors',
         date: '2026-06-01',
         title: 'Beacon June 2026 Issue - PDF',
         preview: `Read the June 2026 Beacon issue directly on the website.`,
