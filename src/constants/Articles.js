@@ -345,7 +345,7 @@ const articles = [
         title: 'Throwback: Spring is Coming Soon',
         preview: '',
         image: Default,
-        name: '2026-04-01-Throwback:-Spring-is-Coming-Soon'
+        name: '2026-04-01-Throwback-Spring-is-Coming-Soon'
 
     },
     {
