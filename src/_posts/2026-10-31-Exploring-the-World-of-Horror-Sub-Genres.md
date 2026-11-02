@@ -1,0 +1,9 @@
+**What would you define as scary?** This question is what the horror genre continues to challenge every Halloween. From innocent dolls to horrifying clowns, it seems like nothing is safe from our fixation on making everything and anything a source of fear. Ever since I played Granny, a horror game about a literal grandma who somehow still managed to terrify me, it got me thinking about different types of horror genres we see in films and games.
+
+  
+
+While I was looking for an excuse to procrastinate, I came across Scavengers Reign. This show is terrifyingly beautiful, as it centres around eco-systemic horror, and the captivatingly fatal ecosystem that thrives on an alien planet. What I, and many others, find so interesting about this genre of horror is that your fear does not hunt you out of malicious intent, but only out of necessity for its own survival. Eco-systemic horror can be more frightening than the masked murderers and monsters in our usual horror stories. Since the ecosystem is what's hunting you, you can never outrun it. You can only change yourself to become a part of the monster.
+
+  
+
+Another sub genre of horror that centres around setting is when the story takes place in one place the entire time. What’s scary about this narrative is how it feels like you, the audience, are also being confined. You have no idea what's going on in the outside world, and you can only try your best to make sense of everything that's happening in front of you. This sub-genre of horror is also the background of Stephen King's novel, Misery, and the film, Saw. When you only have only one setting, it amplifies the feeling of your threat being inescapable. In horror, settings alone can become a terrifying character, and as the horror genre continues to evolve and spread, I’m excited to see what new, unique concepts can come to the big screen next!

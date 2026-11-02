@@ -167,6 +167,62 @@ import Valentines2026 from '../assets/images/2026-02-14-RomCom.png'
 
 const articles = [
     {
+        author: 'Meghana Manoj & Mirabelle May',
+        date: '2026-10-31',
+        title: 'Please Excuse My Screaming',
+        preview: `MCI students and teachers share their favourite fall movies, from classic slashers to comforting seasonal favourites.`,
+        image: Default,
+        name: '2026-10-31-Please-Excuse-My-Screaming'
+    },
+    {
+        author: 'Amogh Thakur',
+        date: '2026-10-31',
+        title: 'Martingrove’s Halloween Dream Team',
+        preview: `What if Halloween’s most influential characters joined MCI’s fall sports teams?`,
+        image: Default,
+        name: '2026-10-31-Martingroves-Halloween-Dream-Team'
+    },
+    {
+        author: 'Shanmuki Varatharajhan',
+        date: '2026-10-31',
+        title: 'MCI: Fall Event Forecast',
+        preview: `From the BAC Pep Rally to SAC’s Halloween events, there are plenty of ways to enjoy fall at MCI.`,
+        image: Default,
+        name: '2026-10-31-MCI-Fall-Event-Forecast'
+    },
+    {
+        author: 'Tiana Attard',
+        date: '2026-10-31',
+        title: 'Thanksgiving: Food for Thought',
+        preview: `Thanksgiving is a chance to appreciate our communities, the wilderness, and the land we use to grow food.`,
+        image: Default,
+        name: '2026-10-31-Thanksgiving-Food-for-Thought'
+    },
+    {
+        author: 'Uma Datar',
+        date: '2026-10-31',
+        title: 'Fall Preparations',
+        preview: `Rabbits, squirrels, and beavers each have their own ways of preparing for Canadian winters.`,
+        image: Default,
+        name: '2026-10-31-Fall-Preparations'
+    },
+    {
+        author: 'Insha Fatima',
+        date: '2026-10-31',
+        title: 'Exploring the World of Horror Sub Genres',
+        preview: `From ecosystemic horror to stories confined to one setting, horror keeps finding new ways to frighten us.`,
+        image: Default,
+        name: '2026-10-31-Exploring-the-World-of-Horror-Sub-Genres'
+    },
+    {
+        author: 'Sanvi Sharma',
+        date: '2026-10-31',
+        title: 'No Tricks, All Treats: How to Bake Cinnamon Rolls at Home',
+        preview: `Follow this recipe to make a warm batch of classic cinnamon rolls at home.`,
+        image: Default,
+        name: '2026-10-31-No-Tricks-All-Treats-How-to-Bake-Cinnamon-Rolls-at-Home'
+    },
+    {
         author: 'Archana Arulthas',
         date: '2026-06-01',
         title: 'The Illusion of Safety: The Psychology Behind Summer Horror',
