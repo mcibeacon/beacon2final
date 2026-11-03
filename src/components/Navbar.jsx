@@ -14,8 +14,8 @@ const Navbar = () => {
       <ul className='link-stuff '>
         
       <li className='links '>
-            <Link to="/about" className=' page-link max-xs:text-[10px]'>
-            About
+            <Link to="/articles" className=' page-link max-xs:text-[10px]'>
+            Articles
            
             </Link>
            
@@ -29,7 +29,7 @@ const Navbar = () => {
             Members
             </Link>
           </li>
-        <Link to="/" className='mt-5'>
+        <Link to="/about" className='mt-5'>
          
             <img src={header} className='header mt-[0px] border-b-2 border-grey'/>
         
